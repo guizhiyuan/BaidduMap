@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.guizhiyuan.maptest.MainActivity" >
-
+<!--this is a firt commit project-->
     <com.baidu.mapapi.map.MapView 
         android:id="@+id/bmapView"
         android:layout_width="match_parent"
